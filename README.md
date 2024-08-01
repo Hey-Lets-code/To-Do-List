@@ -2,6 +2,9 @@
 
 Este é um projeto de aplicação de lista de tarefas (To-Do List) desenvolvido utilizando HTML, CSS e JavaScript.
 
+![image](https://github.com/user-attachments/assets/267227ad-6e4b-441a-a30e-504b5326f45b)
+
+
 ## Descrição
 
 A aplicação permite que os usuários adicionem, marquem como concluídas e removam tarefas. As tarefas são armazenadas no `localStorage` para que a lista permaneça intacta mesmo após recarregar a página.
